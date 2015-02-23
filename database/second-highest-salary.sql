@@ -1,6 +1,5 @@
 # Source: https://oj.leetcode.com/problems/second-highest-salary/
-# Author: Destin
-# Link:   http://destin.im/
+# Author: Destin (destin.im)
 
 /*
 Write a SQL query to get the second highest salary from the Employee table.

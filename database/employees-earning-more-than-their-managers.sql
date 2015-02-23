@@ -1,6 +1,5 @@
 # Source: https://oj.leetcode.com/problems/employees-earning-more-than-their-managers/
-# Author: Destin
-# Link:   http://destin.im/
+# Author: Destin (destin.im)
 
 /*
 The Employee table holds all employees including their managers. Every employee has an Id, and there is also a column for the manager Id.

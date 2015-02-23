@@ -1,6 +1,5 @@
 # Source: https://oj.leetcode.com/problems/combine-two-tables/
-# Author: Destin
-# Link:   http://destin.im/
+# Author: Destin (destin.im)
 
 /*
 Table: Person
