@@ -2,6 +2,7 @@
 # Author: Destin (destin.im)
 
 /*
+
 The Employee table holds all employees including their managers. Every employee has an Id, and there is also a column for the manager Id.
 
 +----+-------+--------+-----------+
@@ -20,6 +21,7 @@ Given the Employee table, write a SQL query that finds out employees who earn mo
 +----------+
 | Joe      |
 +----------+
+
 */
 
 # Write your MySQL query statement below
